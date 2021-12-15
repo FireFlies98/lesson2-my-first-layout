@@ -1,50 +1,49 @@
-body{
+body {
     background-color: skyblue;
     font-family: Verdana;
 }
 
-header{
+header {
     margin-left: 50px;
 }
 
-h1{
+h1 {
     display: flex;
-    padding: 0;
     justify-content: center;
 }
 
-h2{
-    margin-left: 50px;
+h2 {
+    padding: 50px;
 }
 
-h3{
-    margin-left: 50px;
+h3 {
+    padding: 50px;
 }
 
-p{
+p {
     font-size: 18px;
 }
 
-li{
+li {
     font-size: 18px;
 }
 
-q{
+q {
     font-size: 18px;
 } 
 
-section{
-    margin-left: 50px;
+div {
+    padding: 30px;
 }
 
-.box{
+.box {
     position: relative;
     margin-left: 50px;
     width: 500px;
     height: 500px;
 }
 
-iframe{
+iframe {
     position: absolute;
     top: 0px;
     left: 0px;
